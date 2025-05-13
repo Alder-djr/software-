@@ -6,3 +6,15 @@
 <h6>标题6</h6>
 
 ![cat](https://github.com/Alder-djr/software-/blob/main/fog.png)
+
+```
+System.out.println("Hello World!")
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
