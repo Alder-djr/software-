@@ -18,3 +18,5 @@ var myVar = "Hello, world!";
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [x] Introduce myself to the world
+
+这是我的要产生合并冲突的文字
